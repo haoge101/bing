@@ -24,7 +24,7 @@ public class Images {
     }
 
     public String toLarge() {
-        String smallUrl = url + "&w=1000";
+        String smallUrl = url + "&w=3000";
         return String.format("![](%s)Today: [%s](%s)", smallUrl, desc, url);
     }
 
