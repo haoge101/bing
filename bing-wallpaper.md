@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-04-02 | ['Greetings from Giza,' an installation by the artist JR, Cairo, Egypt (© Ammar ABD RABBO/Abaca Press/Alamy)](https://cn.bing.com/th?id=OHR.FloatingPyramid_EN-US0665970384_UHD.jpg) 
+
 2022-03-26 | [Lauterbrunnen Valley in the Swiss Alps (© Leonid Andronov/Getty Images)](https://cn.bing.com/th?id=OHR.Rivendell_EN-US9228594102_UHD.jpg) 
 
 2022-03-25 | [Red squirrel in a nest of lichen and pine needles, Scottish Highlands (© Neil Anderson/Minden Pictures)](https://cn.bing.com/th?id=OHR.SquirrelNesting_EN-US9878096346_UHD.jpg) 
