@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-05-02 | [Dancers on the site of a lele (altar) on Mount Maunaloa, Molokai, Hawaii (© Alvis Upitis/Getty Images)](https://cn.bing.com/th?id=OHR.LeiDay_EN-US2557797109_UHD.jpg) 
+
 2022-04-02 | ['Greetings from Giza,' an installation by the artist JR, Cairo, Egypt (© Ammar ABD RABBO/Abaca Press/Alamy)](https://cn.bing.com/th?id=OHR.FloatingPyramid_EN-US0665970384_UHD.jpg) 
 
 2022-03-26 | [Lauterbrunnen Valley in the Swiss Alps (© Leonid Andronov/Getty Images)](https://cn.bing.com/th?id=OHR.Rivendell_EN-US9228594102_UHD.jpg) 
