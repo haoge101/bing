@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-06-10 | [Sweetheart Abbey, Dumfries and Galloway, Scotland (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.SweetheartAbbey_EN-US7440629451_UHD.jpg) 
+
 2022-06-02 | [Coral reef in Marovo Lagoon in the Solomon Islands (© WaterFrame/Alamy)](https://cn.bing.com/th?id=OHR.MarovoLagoon_EN-US9916170608_UHD.jpg) 
 
 2022-05-02 | [Dancers on the site of a lele (altar) on Mount Maunaloa, Molokai, Hawaii (© Alvis Upitis/Getty Images)](https://cn.bing.com/th?id=OHR.LeiDay_EN-US2557797109_UHD.jpg) 
