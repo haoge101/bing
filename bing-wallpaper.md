@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-19 | [Guggenheim Museum Bilbao, Spain (© Jeremy Horner/Getty Images)](https://cn.bing.com/th?id=OHR.GB25Anni_EN-US8198972228_UHD.jpg) 
+
 2022-10-17 | [Prince Christian Sound in southern Greenland (© Posnov/Getty Images)](https://cn.bing.com/th?id=OHR.PrinceChristianSound_EN-US8033823843_UHD.jpg) 
 
 2022-10-16 | [Naqsh-e Rostam archaeological site near Persepolis, Iran (© mshirani/Shutterstock)](https://cn.bing.com/th?id=OHR.NaqsheRustam_EN-US7919143366_UHD.jpg) 
