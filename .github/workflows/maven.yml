@@ -33,7 +33,7 @@ jobs:
     - name: Push changes
       uses:  ad-m/github-push-action@master
       env:
-        REPO: git@github.com:haoge101/repo.git
+        REPO: git@github.com:haoge101/haoge101.github.io.git
         BRANCH: main
         FOLDER: build
       with:
