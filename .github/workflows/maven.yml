@@ -33,8 +33,6 @@ jobs:
          git commit -m "update readme.md"
     - name: Push changes
       uses:  ad-m/github-push-action@master
-      env:
-        REPO: git@github.com:haoge101/haoge101.github.io.git
       with:
          github_token: ${{ secrets.MY_GIT_TOKEN }}
-         branch: master
+         branch: main
