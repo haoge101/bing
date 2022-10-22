@@ -36,5 +36,7 @@ jobs:
       
       env:
          REPO: git@github.com:haoge101/haoge101.github.io.git
-         github_token: ${{ secrets.MY_GIT_TOKEN }}
          branch: master
+         
+         github_token: ${{ secrets.MY_GIT_TOKEN }}
+         
