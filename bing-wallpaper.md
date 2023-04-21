@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-22 | [Procida, Italy (© Sean Pavone/Shutterstock)](https://cn.bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg) 
+
 2023-04-21 | [Juniper Springs in Ocala National Forest, Florida (© Michael Warren/Getty Images)](https://cn.bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg) 
 
 2023-04-19 | [Machu Picchu, Peru (© Dora Dalton/Getty Images)](https://cn.bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg) 
