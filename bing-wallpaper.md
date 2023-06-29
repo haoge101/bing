@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-30 | [Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)](https://cn.bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg) 
+
 2023-06-29 | [Rainbow flags and confetti, Reykjavík, Iceland (© Arctic-Images/Getty Images)](https://cn.bing.com/th?id=OHR.PrideIceland_EN-US2263138010_UHD.jpg) 
 
 2023-06-27 | [Château de Villandry and its garden, Loire Valley, France (© VLADJ55/Shutterstock)](https://cn.bing.com/th?id=OHR.VillandryGarden_EN-US2096198100_UHD.jpg) 
