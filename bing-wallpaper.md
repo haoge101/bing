@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-07-18 | [Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images)](https://cn.bing.com/th?id=OHR.VaiUmbrellas_ROW3620558002_UHD.jpg) 
+
 2026-07-17 | [Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)](https://cn.bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg) 
 
 2026-07-16 | [Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)](https://cn.bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg) 
